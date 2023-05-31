@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Test01 from './test01/Test01'
+import Test0102 from './test01/Test02'
 import Test02 from './test02/Test02'
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       </header>
       <Test01 />
       <Test02 />
+      <Test0102 />
     </div>
   );
 }
