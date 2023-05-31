@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Test01 from './test01/Test01'
+import Test02 from './test02/Test02'
 function App() {
   return (
     <div className="App">
